@@ -1,3 +1,4 @@
+""" urls for polls app"""
 from django.urls import path
 
 from . import views
